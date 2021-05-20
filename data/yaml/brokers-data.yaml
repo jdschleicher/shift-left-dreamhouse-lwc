@@ -1,0 +1,13 @@
+
+- object: Broker__c
+  count: 10
+  fields:
+    Title__c:  
+      fake: job
+    Phone__c: 
+      fake: phone_number
+    Mobile_Phone__c: 
+      fake: phone_number
+    Email__c: 
+      fake: email
+  
